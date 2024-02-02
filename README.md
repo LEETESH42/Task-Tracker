@@ -1,5 +1,5 @@
 # Task-Tracker
-TaskMate is a simple task management application that allows users to create, manage, and track their todos. The application is built using Spring Boot for the backend API and React for the frontend.
+TaskTarcker is a simple task management application that allows users to create, manage, and track their todos. The application is built using Spring Boot for the backend API and React for the frontend.
 
 # Features
 - User authentication: Users can sign up and log in to their accounts.
